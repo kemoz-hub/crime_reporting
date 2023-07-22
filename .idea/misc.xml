@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/background.xml" value="0.1635" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/btn_lg.xml" value="0.142" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/dialog_bg.xml" value="0.106" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.106" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.154" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1115" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/input_bg.xml" value="0.142" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/pro.xml" value="0.1135" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/profile.xml" value="0.1385" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/register.xml" value="0.1385" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/drawable/side_nav_bar.xml" value="0.1115" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_about.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_analyses.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_chat.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_complainreport.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_complaintsupdate.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_drawer_base.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_forgotpass.xml" value="0.22" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_main_admin.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_main_police.xml" value="0.21" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_managecases.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_manageusers.xml" value="0.18" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_missingperson.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_police.xml" value="0.18" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_policereg.xml" value="0.2" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_policestation.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_populatemissing.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_print_doc.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_register.xml" value="0.16" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_reports.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_splashscreen.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_station_notification.xml" value="0.1984375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_status.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/activity_view_missing.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/adminchangepass.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/assignpol.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/assignpolice.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/bottom_drawer.xml" value="0.15" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/citizenstatus.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/content_drawer.xml" value="0.14375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/content_layout.xml" value="0.22" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/dialogfragment.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/drop.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/dropdown.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/dropdownlocation.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/fragment_complain.xml" value="0.18" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/main_drawer_header.xml" value="0.17" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/missing_peson_entry.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/nav_header_drawer.xml" value="0.14375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/notificationentry.xml" value="0.203125" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/reports.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/statusentry.xml" value="0.18461538461538463" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/updatecomplain.xml" value="0.18" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/layout/userentry.xml" value="0.25" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/menu/activity_main_drawer.xml" value="0.1984375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/menu/drawer.xml" value="0.1875" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/menu/logout.xml" value="0.14375" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/menu/main_drawer_menu.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/menu/menu_navigation.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12" />
+        <entry key="..\:/Users/malcolm ephantus/AndroidStudioProjects/crimereporting/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#808080</color>
+    <color name="purple_700">#808080</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="chocolate">#C85A17</color>
+    <color name="valentinered">#E55451</color>
+    <color name="sandstone">#786D5F</color>
+    <color name="hotpink">#F660AB</color>
+    <color name="Grape">#5E5A80</color>
+    <color name="lightpink">#FAAFBA</color>
+    <color name="sienna">#8A4117</color>
+    <color name="Taupe">#483C32</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="blue">#0000FF</color>
+    <color name="grey">#808080</color>
+    <color name="brown">#A52A2A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="material_dynamic_secondary95">#E0F3FF</color>
+    <color name="material_dynamic_neutral10">#191C1E</color>
+    <color name='material_dynamic_secondary60'>#8094A0</color>
+    <color name='material_dynamic_neutral20'>#2E3133</color>
+    <color name='material_dynamic_secondary90'>#D1E5F4</color>
+
+</resources>

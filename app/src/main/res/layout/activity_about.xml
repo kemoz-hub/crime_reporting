@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_dynamic_neutral20"
+    tools:context=".chat">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="362dp"
+        android:layout_height="495dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:cardBackgroundColor="@color/material_dynamic_secondary95"
+        app:cardCornerRadius="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="477dp"
+            android:text="This is crime reporting app that enables citizens to report their complaints.Once complaints has been reported ,police officer will then review and confirmed if the reported complaints are true and real .
+            Police officer will then take a step by sending alert notification through an sms to the informer.Administrator will then close the case and manage all the users of the system contact or call 0798539170 for more support user manual has been provided incase of any issue.........thank you for using our app  "
+            android:textColor="@color/teal_200"
+            android:textSize="25sp"
+            android:textStyle="italic" />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.crimereporting">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/law_book"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/law_book"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CrimeReporting">
+        <activity
+            android:name=".analyses"
+            android:exported="false" />
+        <activity
+            android:name=".Managecases"
+            android:exported="false" />
+        <activity
+            android:name=".Forgotpass"
+            android:exported="false" />
+        <activity
+            android:name=".print_doc"
+            android:exported="false" />
+        <activity
+            android:name=".populatemissing"
+            android:exported="false" />
+        <activity
+            android:name=".About"
+            android:exported="false" />
+        <activity
+            android:name=".station_notification"
+            android:exported="false" />
+        <activity
+            android:name=".drawer"
+            android:exported="false"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/Theme.CrimeReporting.NoActionBar" />
+        <activity
+            android:name=".Reports"
+            android:exported="false" />
+        <activity
+            android:name=".complaintsupdate"
+            android:exported="false" />
+        <activity
+            android:name=".policereg"
+            android:exported="false" />
+        <activity
+            android:name=".Manageusers"
+            android:exported="false" />
+        <activity
+            android:name=".Police"
+            android:exported="false" />
+        <activity
+            android:name=".status"
+            android:exported="false" />
+        <activity
+            android:name=".chat"
+            android:exported="false" />
+        <activity
+            android:name=".policestation"
+            android:exported="false" />
+        <activity
+            android:name=".missingperson"
+            android:exported="false" />
+        <activity
+            android:name=".MainAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".MainPolice"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="false" />
+        <activity
+            android:name=".complainreport"
+            android:exported="false" />
+        <activity
+            android:name=".DrawerBaseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
